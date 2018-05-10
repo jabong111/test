@@ -1,0 +1,43 @@
+@charset "EUC-KR";
+body {
+	font-size: 9pt; color: black; line-height: 160%; 
+	font-family: ±¼¸²,verdana,tahoma
+}
+td {
+	font-size: 9pt; color: black; line-height: 160%; 
+	font-family: ±¼¸²,verdana,tahoma
+}
+select {
+	font-size: 9pt; color: black; line-height: 160%; 
+	font-family: ±¼¸²,verdana,tahoma
+}
+div {
+	font-size: 9pt; color: black; line-height: 160%; 
+	font-family: ±¼¸²,verdana,tahoma
+}
+form {
+	font-size: 9pt; color: black; line-height: 160%; 
+	font-family: ±¼¸²,verdana,tahoma
+}
+textarea {
+	border-right: 1px solid #999999; border-top: 1px solid #999999; 
+	font-size: 9pt; border-left: 1px solid #999999;
+	COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999; 
+	FONT-FAMILY: ±¼¸²,verdana; BACKGROUND-COLOR: white
+}
+input {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; 
+	FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999; COLOR: BLACK;
+	BORDER-BOTTOM: 1px solid #999999; FONT-FAMILY: ±¼¸²,verdana; 
+	HEIGHT: 19px; BACKGROUND-COLOR: white
+}
+
+A:link {
+	text-decoration: none; color: #696969 
+}
+A:hover {
+	text-decoration: yes; color:  #66CCFF
+}
+A:visited {
+	text-decoration: none; color:#330066
+}
