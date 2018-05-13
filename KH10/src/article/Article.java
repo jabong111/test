@@ -15,7 +15,7 @@ public class Article {
 	private String content;
 	
 	
-	public int getId() {
+	public int getId() { //ddds
 		return id;
 	}
 	public void setId(int id) {
