@@ -16,7 +16,7 @@
 	<colgroup>
 			<col width="20%" />
 			<col width="*" />
-		</colgroup> <!-- asdasdasd -->
+		</colgroup> <!-- asdasdasdasdasdasd -->
 	<tr>
 		<td colspan="3"><strong>회원가입 확인</strong></td>
 	</tr>
